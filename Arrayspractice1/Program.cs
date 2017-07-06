@@ -86,8 +86,8 @@ namespace Arrayspractice1
                 //Will sort numbers in array from low to high
                 //will sort char's and strings in alpha order A-Z
 
-                // string[] powerRangers = { "Green", "Yellow", "Pink", "Blue", "Red", "Black" };
-                //   Console.WriteLine(powerRangers[0]);
+                //   string[] powerRangers = { "Green", "Yellow", "Pink", "Blue", "Red", "Black" };
+              //  Console.WriteLine(powerRangers[0]);
 
 
                 //string[] firstNames = { "Bill", "Horace", "Reggie", "Arnold" };
@@ -95,6 +95,21 @@ namespace Arrayspractice1
 
                 //  int[] luckyNumbers = { 7, 7, 6, 3, 2, 12, 12 };
                 // Console.WriteLine(Array.LastIndexOf(luckyNumbers,7));
+
+
+                //    char[] alphahetChar = { 'a', 'b', 'c' };
+                //    Console.WriteLine(alphahetChar[0]);
+                //    Array.Reverse(alphahetChar);
+                //   Console.WriteLine(alphahetChar[0]);
+
+           //     string[] studentsList = new string[6] { "Jerry", "Kevin", "Smith", "Paul", "Jones", "Lewis" };
+            //    Array.Sort(studentsList);
+            //    Console.WriteLine(studentsList[0]);
+           //     Console.WriteLine(studentsList[5]);
+
+
+
             }
         }
+    }
 }
